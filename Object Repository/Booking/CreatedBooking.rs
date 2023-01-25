@@ -15,22 +15,6 @@
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
    <httpBodyType>text</httpBodyType>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>Content-Type</name>
-      <type>Main</type>
-      <value>application/json</value>
-      <webElementGuid>7b88d160-5d6f-4dab-91c7-bf89239c07cf</webElementGuid>
-   </httpHeaderProperties>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>Authorization</name>
-      <type>Main</type>
-      <value>Basic bXVoYW1hZGlmLmlmQGdtYWlsLmNvbTpnaHBfd0t1UDRTZnFkYVZaOWMxT0lOQW5ON3JnbHA1UGgzMkRHUUd2</value>
-      <webElementGuid>9c695d09-54b2-4366-b61d-5e7db4e11d7d</webElementGuid>
-   </httpHeaderProperties>
    <katalonVersion>8.5.5</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
